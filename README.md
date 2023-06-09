@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Hasil RUN
+![image](https://github.com/Daniramadani/Menampilkan-data-dari-sumber-data-external-Json/assets/104158495/ff1c5e8c-4e92-4146-80ee-3a47a4b04c79)
